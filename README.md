@@ -1,6 +1,6 @@
 # StayTuned
 
-Are you tired of searching for the current top music albums? Be no more and [StayTuned](...).
+Are you tired of searching for the current top music albums? Be no more and [StayTuned](https://staytuned-seven.vercel.app).
 
 ## Stack
 
