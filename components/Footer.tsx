@@ -8,8 +8,8 @@ export default function Footer() {
         <span className='text-sm'>
           Erik Streller {new Date().getFullYear()} •{' '}
           <NewTab
-            href={'/'}
-            className='text-link cursor-pointer hover:underline hover:underline-offset-2'
+            href={'https://github.com/erikstreller/staytuned'}
+            className='cursor-pointer text-link hover:underline hover:underline-offset-2'
           >
             Source Code
           </NewTab>
